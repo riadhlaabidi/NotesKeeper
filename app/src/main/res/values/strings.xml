@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesKeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_note_button_cd">add note floating button</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Note</string>
+    <string name="search_notes_hint">Search...</string>
+    <string name="cd_search_notes">Search notes</string>
+    <string name="note_title_default">Note Title</string>
+    <string name="note_text_default">Note Text</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
